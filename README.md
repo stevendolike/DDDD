@@ -184,4 +184,4 @@
 | ZA | 6 | [raw](https://raw.githubusercontent.com/stevendolike/DDDD/main/regions_443/ZA.txt) |
 
 ---
-*最後更新：2026-08-31 21:16 UTC*
+*最後更新：2026-09-01 01:09 UTC*
